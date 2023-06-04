@@ -14,7 +14,7 @@ https://paolaescudero.github.io/cv/
 
 ## Videos
 * Behance https://www.behance.net/violetbaggins
-* Mi CV: https://youtu.be/xP5BhLNmCKQ (2019)
+* Mi CV https://youtu.be/xP5BhLNmCKQ (2019)
 * Motion Graphics Reel https://youtu.be/uXF6_UctrbU (2022)
 <!--
 **paolaescudero/paolaescudero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
