@@ -6,15 +6,16 @@ https://paolaescudero.github.io/cv/
 
 ## Páginas
 * https://violetbaggins.github.io/tinderventura/
-* https://correcachetescorre.herokuapp.com/
+* https://web-production-3113.up.railway.app
 * https://violettuts.wordpress.com/
-* http://mundoparlante.herokuapp.com/
+* https://mundoparlante.adaptable.app/
 * https://violetbaggins.github.io/south-park-css/
 * https://web.archive.org/web/20091025145549/http://geocities.com/cartoonsdelos80/2index.html (una de 2003)
 
 ## Videos
-* https://youtu.be/xP5BhLNmCKQ
-* https://youtu.be/DTiwt5Hugi0
+* Behance https://www.behance.net/violetbaggins
+* Mi CV: https://youtu.be/xP5BhLNmCKQ (2019)
+* Motion Graphics Reel https://youtu.be/uXF6_UctrbU (2022)
 <!--
 **paolaescudero/paolaescudero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
