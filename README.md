@@ -4,7 +4,7 @@ https://paolaescudero.github.io/cv/
 ## ¿No entendes nada de programación?
 ### aca te dejo cosas que se pueden clickear:
 
-## Páginas
+## Web
 * https://violetbaggins.github.io/tinderventura/
 * https://web-production-3113.up.railway.app
 * https://violettuts.wordpress.com/
